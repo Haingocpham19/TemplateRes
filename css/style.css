@@ -1,0 +1,22 @@
+.menu{
+    position: relative;
+    left: 0%;
+    right: 0%;
+    top: 0%;
+    bottom: -7.52%;
+    max-height: 136px;
+    background-color: rgb(29, 28, 28);
+}
+.logo{
+    position: absolute;
+    top:1.5rem;
+    bottom:1.5rem;
+}
+.logo img{
+    max-width: 100px;
+    position: absolute;
+    left: 0%;
+    right: 81.51%;
+    top: 0%;
+    bottom: 0.81%;
+}
